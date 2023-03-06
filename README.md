@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# EDUCATION 
+# EDUCACION 
 
 <h3>Facultad de Ingenieria de Lomas de Zamora</h3>
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 
 
-# TECH STACK
+# TECNOLOGIAS
 
 ### Languages
 
