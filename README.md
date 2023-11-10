@@ -96,10 +96,12 @@ Here are some ideas to get you started:
 
 # EXPERIENCIAS
 
-### Desarrollo de aplicaciones  en trenda:  Frontend Developer 
+### Desarrollo:  Frontend Developer en Kaizen2B Marzo 2023- Actualidad
+
+### Desarrollo de aplicaciones  en trenda:  Frontend Developer  
 
 
-<p class="text-right">Enero 2022 actualidad</p>
+<p class="text-right">Enero 2022- 2023</p>
 
 <details class="collapsed">
   <summary>
